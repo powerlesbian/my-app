@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# From the Create React App:  The Tic Tack Toe
+
+This project was created follwing the React tutorial to create a tic tack toe 9 squares game: https://reactjs.org/tutorial/tutorial.htm 
+
+
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
