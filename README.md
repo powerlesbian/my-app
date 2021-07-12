@@ -1,7 +1,18 @@
-# From the Create React App:  The Tic Tack Toe
+# The Tic Tack Toe Game (From the Create React App)
 
 This project was created follwing the React tutorial to create a tic tack toe 9 squares game: https://reactjs.org/tutorial/tutorial.htm 
 
+has history of moves.  Some proposed improvements include (listed in order of increasing difficulty):
+
+Display the location for each move in the format (col, row) in the move history list.
+Bold the currently selected item in the move list.
+Rewrite Board to use two loops to make the squares instead of hardcoding them.
+Add a toggle button that lets you sort the moves in either ascending or descending order.
+When someone wins, highlight the three squares that caused the win.
+When no one wins, display a message about the result being a draw.
+
+
+## Below is info from the create react app bootstrap:
 
 Getting Started with Create React App
 
