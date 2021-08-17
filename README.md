@@ -2,14 +2,9 @@
 
 This project was created follwing the React tutorial to create a tic tack toe 9 squares game: https://reactjs.org/tutorial/tutorial.htm 
 
-has history of moves.  Some proposed improvements include (listed in order of increasing difficulty):
+has history of moves.  
 
-Display the location for each move in the format (col, row) in the move history list.
-Bold the currently selected item in the move list.
-Rewrite Board to use two loops to make the squares instead of hardcoding them.
-Add a toggle button that lets you sort the moves in either ascending or descending order.
-When someone wins, highlight the three squares that caused the win.
-When no one wins, display a message about the result being a draw.
+This is a work in progress, but I'd like to implement better styling for the board squares to animate the drawing of the hash like we did when we were children.  In terms of logic features, I think it might be cool if we could give hints for the moves.  First in the Roadmap of Future Improvements, when someone wins, we can highlight the three squares that caused the win.  that seems pretty straight forward since we already have the "win" array, but then if we could provide "hints" to the player as to her options by flashing potential and advantageous moves after the 4th turn, that would make it, well potentially a kind of cheat sheet for tic tack toe competitors.
 
 
 ## Below is info from the create react app bootstrap:
