@@ -12,6 +12,13 @@ When someone wins, highlight the three squares that caused the win.
 When no one wins, display a message about the result being a draw.
 
 
+to run, clone, 
+run npm install and run build, 
+
+to demo I did that and deployed it here:
+
+http://yumseafood.s3-website-ap-southeast-1.amazonaws.com/
+
 ## Below is info from the create react app bootstrap:
 
 Getting Started with Create React App
